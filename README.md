@@ -1,4 +1,5 @@
 # Credit Risk Prediction Using Logistic Regression - SKLearn
+<img src="https://wallpapercave.com/wp/wp4750366.png" class="card-img-top" alt="Project 17">
 In this challenge, various techniques were used to train and evaluate a model based on loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was utilized to build a model that could identify the creditworthiness of borrowers.
 # Instructions
 The instructions for this challenge were divided into the following subsections:

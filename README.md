@@ -9,7 +9,7 @@ The instructions for this challenge were divided into the following subsections:
 - Split the Data into Training and Testing Sets
 - Created a Logistic Regression Model with the Original Data
 - Created Credit Risk Analysis Report
-
+ 
 # Split the Data into Training and Testing Sets
 The provided starter code notebook was used to complete the following steps:
   ![image](https://github.com/user-attachments/assets/1bad39a1-1764-4742-bddb-9f4659e884cc)  
